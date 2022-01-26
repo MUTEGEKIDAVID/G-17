@@ -1,0 +1,56 @@
+body{
+    background-color: #b7baec;
+   
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.header{
+    width: 800px;
+    background-color:rgb(5, 68, 104) ;
+    margin:auto;
+    color:black;
+    padding : 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.registrationbox{
+
+    background-color:whitesmoke;
+    width:800px;
+    margin: auto;
+    height:350px; 
+    font-family: monospace;
+    padding:  0 0 40px;
+    text-align:left ;
+    
+}
+form{
+    padding: 10px;
+}
+input{
+    border-radius:5px;
+    padding: 10px 20px 20px 10px;
+    height: 30px;
+}
+.register{
+    width:300px;
+    height:40px;
+    background: black;
+    color:white;
+    border-radius:20px;
+    
+    transform:translate(80%,90%) ;
+    text-align: center;
+    vertical-align: middle;
+}
+.register:hover{
+    background-color:rgb(5, 68, 104); 
+    color: rgba(255, 0, 0, 0.993);
+}
+#em{
+    width:499px;
+}
+
